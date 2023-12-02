@@ -1,0 +1,7 @@
+fastapi
+Jinja2
+pandas
+SQLAlchemy
+sqlparse
+uvicorn
+websockets
